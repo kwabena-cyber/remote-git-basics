@@ -7,4 +7,7 @@ Location: Accra Ghana
 Yesterday was a great day we learnt of Linux commands 
 
 ## Learning Summary for Today
-Learning on Git and Github  
+Learning on Git and Github 
+
+## LEarning Summary for Morrow
+Learning on Python 
